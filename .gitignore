@@ -1,0 +1,15 @@
+dl/*
+download/*
+foo.txt
+*.log
+proto.py
+*.pyc
+chromedriver
+*.idea
+*.vscode
+S3_Downloads/*
+dump.rdb
+*test.json
+*product.json
+*product.rar
+*test.py
